@@ -27,7 +27,7 @@ public class ContactController {
     @PostMapping("/")
     public  String storeContact(Contact contact) {
         System.out.println(contact.getName());
-        boolean repeat = false;
+        Collections.sort(this.contacts, (e1,e2)-> e1.getName().compareToIgnoreCase(e2.getName()));
         this.contacts.add(contact);
         return "redirect:/";
     }

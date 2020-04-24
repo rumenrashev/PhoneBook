@@ -24,6 +24,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="JavaMethodFindUsagesOptions.isOverridingMethods" value="true" />
+    <property name="JavaMethodFindUsagesOptions.isSearchForTextOccurrences" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="D:/SoftUni/Java Fundamentals 2020/Basic Web Porject/phonebook" />
     <property name="project.structure.last.edited" value="Project" />
@@ -65,26 +67,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1587741768687">
+      <screen x="0" y="0" width="1536" height="802" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.802@0.0.1536.802" timestamp="1587741768687" />
     <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1587387785841">
       <screen x="0" y="0" width="1536" height="802" />
     </state>
     <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.802@0.0.1536.802" timestamp="1587387785841" />
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1587388885067">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1587742043255">
       <screen x="0" y="0" width="1536" height="802" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.802@0.0.1536.802" timestamp="1587388885067" />
-    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1587388885067">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.802@0.0.1536.802" timestamp="1587742043255" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1587742043255">
       <screen x="0" y="0" width="1536" height="802" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.802@0.0.1536.802" timestamp="1587388885067" />
-    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1587388885067">
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.802@0.0.1536.802" timestamp="1587742043255" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1587742043255">
       <screen x="0" y="0" width="1536" height="802" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.802@0.0.1536.802" timestamp="1587388885067" />
-    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1587388885067">
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.802@0.0.1536.802" timestamp="1587742043255" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1587742043255">
       <screen x="0" y="0" width="1536" height="802" />
     </state>
-    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.802@0.0.1536.802" timestamp="1587388885067" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.802@0.0.1536.802" timestamp="1587742043255" />
     <state x="209" y="98" key="new project wizard" timestamp="1587387750593">
       <screen x="0" y="0" width="1536" height="802" />
     </state>

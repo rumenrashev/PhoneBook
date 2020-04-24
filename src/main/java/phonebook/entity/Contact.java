@@ -4,11 +4,21 @@ public class Contact {
     private String name;
     private String number;
     private String lastName;
+    private String email;
 
-    public Contact(String name, String number, String lastName) {
+    public Contact(String name, String number, String lastName, String email) {
         this.name = name;
         this.number = number;
         this.lastName = lastName;
+        this.email = email;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
     }
 
     public String getLastName() {

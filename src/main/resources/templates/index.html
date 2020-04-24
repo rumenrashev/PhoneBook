@@ -33,6 +33,7 @@
             <th scope="col">Name</th>
             <th scope="col">Last name</th>
             <th scope="col">Number</th>
+            <th scope="col">Email</th>
         </tr>
         </thead>
         <tbody>
@@ -40,6 +41,7 @@
             <td th:text="${contact.name}"></td>
             <td th:text="${contact.lastName}"></td>
             <td th:text="${contact.number}"></td>
+            <td th:text="${contact.email}"></td>
         </tr>
         </tbody>
     </table>
@@ -66,6 +68,13 @@
                 <div class="col-lg-10">
                     <input type="text" autofocus="autofocus" name="number" title="Number" class="form-control"
                            id="number"/>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="email" class="col-lg-2 control-label">Email</label>
+                <div class="col-lg-10">
+                    <input type="text" autofocus="autofocus" name="email" title="Email" class="form-control"
+                           id="email"/>
                 </div>
             </div>
             <div class="form-group">
